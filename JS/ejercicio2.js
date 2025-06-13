@@ -19,5 +19,8 @@ if (nota === 10) {
 }
 
 if (nota < 0 || nota > 10) {
-  alert(`Introduce un numero valido`);
+  alert(`Numero erroneo`);
+}
+if (isNaN(nota)) {
+  document.writeln(`Introduce un numero valido`);
 }
