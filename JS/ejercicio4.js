@@ -1,15 +1,11 @@
-/* let renglon = 1;
-
-while (renglon < 50) {
-  document.writeln(`<p>renglon ${renglon}<p>`);
-  renglon++;
-} */
+let suma = 0;
 
 do {
   let numero = parseInt(prompt(`Ingresa un numero`));
   if (isNaN(numero)) {
     alert(`No es un numero`);
-    numero = 8;
+    numero = 0;
   }
-  document.writeln(numero);
+  suma = suma + numero;
 } while (confirm(`Ingrese otro numero`));
+document.writeln(`La suma es ${suma}`);
