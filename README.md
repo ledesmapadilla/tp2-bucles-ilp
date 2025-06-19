@@ -1,18 +1,20 @@
-# TP2- Bucles
+# ✨ Trabajo Práctico N° 2
 
-Practica de javaScript con el uso de bucles, bucles anidados
+## 📓 Ejercicios de práctica de JS, con bucles
 
-# Demo del proyecto.
+Este es un repositorio con la resulución de 17 ejercicios con distintas dificultades, para la práctica de JS con la herramienta de Bucles
 
-# Tecnologias utilizadas:
+# 🎇 Demo del proyecto.
 
--JavaScript
+Para poder ver el proyecto, entrá 👉 [Aqui](https://github.com/ledesmapadilla/tp2-bucles-ilp.git)
 
-# Como Ejecutar el proyecto:
+# 💡Tecnologias utilizadas:
 
-1. Clonar el repositorio escribiendo en una terminal el siguiente comando: git clone
-1. Luego abri el index.html con un navegador.
+- HTML5
+- JavaScript ES6
+- CSS3
+- [BOOTSTRAP](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
-# Autor
+# 📢 Autor
 
 - [José Ledesma Padilla](https://github.com/ledesmapadilla)
